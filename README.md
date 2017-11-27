@@ -1,0 +1,2 @@
+# manifesto
+Decentralized AI Manifesto
