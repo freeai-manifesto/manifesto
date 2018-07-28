@@ -46,4 +46,4 @@ Instead of being controlled by somebody, multiple AI must be independent and inc
 
 ---
 
-If you'd like to support this manifesto please follow the instructions [](SIGNING_INSTRUCTIONS.md) or tweet with hashtags [#FreeAI #DecentralizeAI](https://twitter.com/home?status=%23FreeAI%20%23DecentralizeAI).
+If you'd like to support this manifesto please follow the [instructions](SIGNING_INSTRUCTIONS.md) or tweet with hashtags [#FreeAI #DecentralizeAI](https://twitter.com/home?status=%23FreeAI%20%23DecentralizeAI).
