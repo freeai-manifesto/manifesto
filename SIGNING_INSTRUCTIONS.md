@@ -7,7 +7,7 @@ keybase team request-access freeai
 ```
 git clone keybase://team/freeai/freeai-manifesto
 cd freeai-manifesto
-keybase pgp sign -i the_freeai_manifesto.txt -o signatures/`keybase status | grep 'Username:' | awk '{print $2}'`
+keybase pgp sign -c -i the_freeai_manifesto.txt -o signatures/`keybase status | grep 'Username:' | awk '{print $2}'`
 git add .
 git commit -m "Signed by `keybase status | grep 'Username:' | awk '{print $2}'`"
 git push
