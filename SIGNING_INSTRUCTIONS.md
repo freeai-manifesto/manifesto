@@ -1,5 +1,5 @@
 1. Install (if you don't have) Keybase (https://keybase.io/) and set up your identity
-2. Join `freeeai` group - either with Keybase UI or using command
+2. Join `freeai` group - either with Keybase UI or using command
 ```
 keybase team request-access freeai
 ```
