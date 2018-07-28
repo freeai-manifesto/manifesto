@@ -1,4 +1,4 @@
-# THE #FREEAI MANIFESTO
+# The #FreeAI Manifesto
 
 **Multiple artificial intelligences must not be censored or controlled by anybody.**
 
