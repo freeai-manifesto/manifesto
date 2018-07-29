@@ -1,10 +1,10 @@
 1. Install (if you don't have) Keybase from https://keybase.io/. Press Create an account and follow the on screen instructions to create your identity
 2. If you don't have PGP at your Keybase, press Prove your identities -> Create PGP key and follow instructions to set up your own key
-2. Join `freeai` group - either with Keybase UI or using command
+3. Join `freeai` group - either with Keybase UI or using command
 ```
 keybase team request-access freeai
 ```
-3. Perform the following commands:
+4. Perform the following commands:
 ```
 git clone keybase://team/freeai/freeai-manifesto
 cd freeai-manifesto
